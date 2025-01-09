@@ -5,7 +5,7 @@ Junior Front-end Developer
 --------------------------
 
 * 🌍  I'm based in colombo, sri lanka
-* 🖥️  See my portfolio at [My personal website](http://itspasindu.com)
+* 🖥️  See my portfolio at [My personal website](http://codegallery.me)
 * ✉️  You can contact me at [admin@xline.lk](mailto:admin@xline.lk)
 * 🚀  I'm currently working on [Xline Digital](http://xline.lk)
 * 🧠  I'm learning Cyber security
